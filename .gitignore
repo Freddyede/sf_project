@@ -15,3 +15,5 @@
 migrations/
 
 bin/
+
+config/
