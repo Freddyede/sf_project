@@ -21,3 +21,5 @@ config/
 composer.json
 
 composer.lock
+
+*.json
