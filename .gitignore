@@ -17,3 +17,7 @@ migrations/
 bin/
 
 config/
+
+composer.json
+
+composer.lock
